@@ -4,7 +4,7 @@
 This project is a sales management dashboard designed to analyze sales performance across different dimensions.
 
 ## Tools Used
-- Power BI (or Excel)
+- Power BI 
 - Data analysis
 - Data cleaning
 - Data visualization
